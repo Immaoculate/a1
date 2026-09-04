@@ -1,0 +1,8 @@
+We're sorry, something went wrong.
+We were unable to clone computer-systems-au/a1-template's contents into computer-systems-au/a1.
+The following rule violations occured when cloning this repo:
+• Cannot create ref due to creations being restricted.
+Please talk with your organization admin about rules that may be affecting your repository.
+I am in classroom 50, but i do not receive the assignment and can not use the template at first, 
+and I used the template and changed the owner to myself, 
+but still cant generate a do not touch file.
